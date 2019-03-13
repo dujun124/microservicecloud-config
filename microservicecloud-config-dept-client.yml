@@ -4,7 +4,6 @@
   - dev
 
 ---
-
 server:
   port: 8001
   
@@ -40,7 +39,6 @@ eureka:
 
   
 ---
-
 server:
   port: 8001
   
